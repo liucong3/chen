@@ -1,0 +1,1 @@
+javac -d c text2/*.java
